@@ -1,0 +1,10 @@
+
+Files (accessible by typing 'type <NAME OF FILE>'):
+    -about.txt
+    -experience.txt
+
+Links (assessible by typing 'start <NAME OF HYPERLINK>'):
+    - LinkedIn ('https://www.linkedin.com/in/anaysoni')
+    - GitHub ('https://www.github.com)
+    - Home Website ('https://www.anaysoni.com')
+    

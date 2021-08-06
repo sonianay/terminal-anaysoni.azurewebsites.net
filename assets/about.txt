@@ -1,0 +1,23 @@
+
+==========================================================================================
+   ______     __   __     ______     __  __        ______     ______     __   __     __    
+  /\  __ \   /\ "-.\ \   /\  __ \   /\ \_\ \      /\  ___\   /\  __ \   /\ "-.\ \   /\ \   
+  \ \  __ \  \ \ \-.  \  \ \  __ \  \ \____ \     \ \___  \  \ \ \/\ \  \ \ \-.  \  \ \ \  
+   \ \_\ \_\  \ \_\\"\_\  \ \_\ \_\  \/\_____\     \/\_____\  \ \_____\  \ \_\\"\_\  \ \_\ 
+    \/_/\/_/   \/_/ \/_/   \/_/\/_/   \/_____/      \/_____/   \/_____/   \/_/ \/_/   \/_/     
+                                                                           
+==========================================================================================
+
+Hi, my name is Anay! I am a 15 year old Southern Ohio coder! Welcome to my terminal built with JQuery!
+
+I am currently a high school student who is passionate about computer science and engineering.
+
+You can contact me via email at anay_soni@hotmail.com if you have any questions!
+
+To view some of the important commands of this terminal, type 'help'. To list all of the files and links available in this terminal, type 'ls'.
+
+Quick Commands:
+    - 'type experience.txt' 
+    - 'start https://www.linkedin.com/in/anaysoni'
+    - 'start https://www.github.com/sonianay'
+    - 'start https://www.anaysoni.com'

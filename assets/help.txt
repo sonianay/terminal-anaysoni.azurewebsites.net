@@ -1,0 +1,11 @@
+
+Commands:
+    - 'help' : Displays this help message
+    - 'ls' : Displays all links and files accessible
+    - 'cat' : Reads and displays selected file
+    - 'cd' : Takes user to selected link
+
+Quick Commands:
+    - 'cat experience.txt'
+    - 'cd LinkedIn'
+    - 'cd GitHub'
